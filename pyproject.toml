@@ -1,0 +1,11 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "genpark-agentic-tool-call-retry-backoff-skill"
+version = "1.0.0"
+description = "Exponential backoff with jitter and circuit-breaker for failing tool invocations in autonomous agents"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = []
