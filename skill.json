@@ -1,0 +1,20 @@
+{
+  "name": "genpark-agentic-tool-call-retry-backoff-skill",
+  "version": "1.0.0",
+  "description": "Exponential backoff with jitter and circuit-breaker for failing tool invocations in autonomous agents",
+  "category": "Service",
+  "dependencies": [],
+  "topics": [
+    "mcp",
+    "retry-backoff",
+    "circuit-breaker",
+    "resilience",
+    "fault-tolerance",
+    "agent-reliability",
+    "python-standard-library",
+    "agent-skills",
+    "error-handling",
+    "rate-limiting",
+    "distributed-systems"
+  ]
+}
